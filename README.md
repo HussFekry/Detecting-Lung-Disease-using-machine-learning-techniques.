@@ -1,9 +1,4 @@
 # Detecting-Lung-Disease-using-machine-learning-techniques.
-# Data Exploration
-![](./images/00000017_001_small.png)
-# Exploratory Visualization
-![](./images/chart.jpg)
-
 # Datasets
 # [Sample dataset](https://www.kaggle.com/nih-chest-xrays/sample)
 * File contents: this is a random sample (5%) of the full dataset:
